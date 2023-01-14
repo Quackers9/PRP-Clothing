@@ -5,62 +5,62 @@
       "end": 46
     },
     "berd": {
-      "start": 18,
-      "end": 18
+      "start": 15,
+      "end": 15
     },
     "hair": {
-      "start": 101,
-      "end": 101
+      "start": 74,
+      "end": 74
     },
     "uppr": {
-      "start": 45,
-      "end": 45
+      "start": 44,
+      "end": 44
     },
     "lowr": {
+      "start": 55,
+      "end": 55
+    },
+    "hand": {
+      "start": 39,
+      "end": 39
+    },
+    "feet": {
+      "start": 37,
+      "end": 37
+    },
+    "teef": {
+      "start": 32,
+      "end": 32
+    },
+    "accs": {
       "start": 48,
       "end": 48
     },
-    "hand": {
-      "start": 40,
-      "end": 40
-    },
-    "feet": {
-      "start": 56,
-      "end": 56
-    },
-    "teef": {
-      "start": 61,
-      "end": 61
-    },
-    "accs": {
-      "start": 69,
-      "end": 69
-    },
     "task": {
-      "start": 25,
-      "end": 25
+      "start": 17,
+      "end": 17
     },
     "decl": {
       "start": 23,
       "end": 23
     },
     "jbib": {
-      "start": 134,
-      "end": 134
+      "start": 114,
+      "end": 114
     }
   },
   "props": {
     "head": {
-      "start": 41,
-      "end": 41
+      "start": 48,
+      "end": 48
     },
     "eyes": {
-      "start": 40,
-      "end": 40
+      "start": 24,
+      "end": 24
     },
     "ears": {
-      "start": 10,
-      "end": 10
+      "start": 0,
+      "end": 0
     },
     "mouth": {
       "start": 0,
@@ -75,8 +75,8 @@
       "end": 0
     },
     "lwrist": {
-      "start": 3,
-      "end": 3
+      "start": 2,
+      "end": 2
     },
     "rwrist": {
       "start": 0,
